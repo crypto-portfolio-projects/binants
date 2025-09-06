@@ -1,0 +1,2557 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- Mirrored from www.binants.fun/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/main.js by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Sep 2025 11:39:31 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-touch-fullscreen" content="yes" />
+    <title>BINANTS - United by memes. Bound by chain. WE IS BINANTS!</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="../../../../../../../../../../../../../../../../../../../../../../assets/favicon-CoCJRKhU.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="../../../../../../../../../../../../../../../../../../../../../../assets/favicon-CoCJRKhU.ico" />
+    <link rel="apple-touch-icon" href="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png" />
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="United by memes. Bound by chain. WE IS BINANTS! The first real mascot of Binance and BSC. Born from memes, madness, and pure community vibes." />
+    <meta name="keywords" content="BINANTS, BSC, Binance Smart Chain, meme coin, cryptocurrency, DeFi, PancakeSwap, binance, crypto" />
+    <meta name="author" content="BINANTS" />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://binants.com/" />
+    <meta property="og:title" content="BINANTS - United by memes. Bound by chain. WE IS BINANTS!" />
+    <meta property="og:description" content="The first real mascot of Binance and BSC. Born from memes, madness, and pure community vibes. Join the BINANTS army and become part of the revolution!" />
+    <meta property="og:image" content="../../../../../../../../../../../../../../../../../../../../../../../binants.com/public/binants_head.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="BINANTS - The mascot of Binance and BSC" />
+    <meta property="og:site_name" content="BINANTS" />
+    <meta property="og:locale" content="en_US" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://binants.com/" />
+    <meta property="twitter:title" content="BINANTS - United by memes. Bound by chain. WE IS BINANTS!" />
+    <meta property="twitter:description" content="The first real mascot of Binance and BSC. Born from memes, madness, and pure community vibes. Join the BINANTS army!" />
+    <meta property="twitter:image" content="../../../../../../../../../../../../../../../../../../../../../../../binants.com/public/binants_head.png" />
+    <meta property="twitter:image:alt" content="BINANTS - The mascot of Binance and BSC" />
+    <meta property="twitter:creator" content="@BINANTS_bsc" />
+    <meta property="twitter:site" content="@BINANTS_bsc" />
+
+    <!-- Telegram -->
+    <meta property="telegram:channel" content="@Binants_Portal" />
+    
+    <!-- Additional Meta Tags for Social Sharing -->
+    <meta name="theme-color" content="#1a1a1a" />
+    <meta name="msapplication-TileColor" content="#FFD700" />
+    <meta name="msapplication-TileImage" content="../../publi/binants_head.162.delaye" />
+    
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://binants.com/" />
+
+    <!-- Hidden asset preload -->
+    <link rel="preload" href="../../../../../../../../../../../../../../../../../../../../../../assets/pfp_yellow_32x32-DgtMcPem.jpg" as="image" />
+    <link rel="preload" href="../../../../../../../../../../../../../../../../../../../../../../assets/pfp_yellow-DTRJk88W.jpg" as="image" />
+    <link rel="preload" href="../../../../../../../../../../../../../../../../../../../../../../assets/pfp_yellow-BfPL5L75.svg" as="image" />
+
+    <!-- Heroes Legend Font Import (local) -->
+    <style>
+      @font-face {
+      font-family: 'Heroes Legend';
+      src: url('../../../../../../../../../../../../../../../../../../../../../../assets/Heroes%20Legend-4SYzvSt3.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      }
+    </style>
+    <style>
+      /* Reset margins and padding and ensure full height */
+      html, body {
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+        height: 100%;
+        background-color: #1a1a1a;
+        overflow-x: hidden; 
+        position: relative;
+        width: 100%; 
+      }
+      
+      /* Ensure body fills entire viewport without gaps */
+      body {
+        background-color: #1a1a1a;
+        max-width: 100vw; 
+        box-sizing: border-box; 
+      }
+      
+      /* Remove flexbox layout that's causing issues */
+      main {
+        width: 100%;
+        background-color: #1a1a1a;
+        max-width: 100vw; 
+        overflow-x: hidden; 
+        position: relative; 
+      }
+      
+      /* MOBILE FOOTER SPEZIAL-BEHANDLUNG */
+      footer {
+        margin: 0 !important;
+        padding-left: 8px !important;
+        padding-right: 8px !important;
+        box-sizing: border-box !important;
+        width: 100% !important;
+        max-width: 100vw !important;
+        position: relative !important;
+        overflow: hidden !important;
+      }
+      
+      @media (max-width: 640px) {
+        footer {
+          padding-left: 16px !important;
+          padding-right: 16px !important;
+          margin-left: 0 !important;
+          margin-right: 0 !important;
+        }
+        
+        footer .max-w-7xl {
+          max-width: 100% !important;
+          margin: 0 !important;
+          padding-left: 0 !important;
+          padding-right: 0 !important;
+        }
+        
+        footer p {
+          font-size: 10px !important;
+          line-height: 1.3 !important;
+          margin: 0 !important;
+          padding: 8px 0 !important;
+          text-align: center !important;
+          width: 100% !important;
+        }
+        
+        /* EXTRA MOBILE VIEWPORT FIX */
+        body {
+          padding: 0 !important;
+          margin: 0 !important;
+          width: 100vw !important;
+          max-width: 100vw !important;
+          overflow-x: hidden !important;
+        }
+        
+        html {
+          padding: 0 !important;
+          margin: 0 !important;
+          width: 100vw !important;
+          max-width: 100vw !important;
+          overflow-x: hidden !important;
+        }
+      }
+      
+      /* Main body font - Heroes Legend Hollow */
+      body {
+      font-family: 'Heroes Legend', -apple-system, BlinkMacSystemFont, sans-serif;
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+      font-size: 0.85em;
+      }
+
+      /* Headers with enhanced visibility */
+      .binants-header {
+      font-family: 'Heroes Legend', Arial, sans-serif;
+      letter-spacing: 1px;
+      color: #FFD700 !important;
+      font-weight: bold;
+      font-size: 0.87em;
+      }
+
+      /* Major titles with strong contrast */
+      .binants-title {
+      font-family: 'Heroes Legend', Arial, sans-serif;
+      letter-spacing: 2px;
+      font-weight: bold;
+      color: rgb(34, 33, 33);
+      line-height: 1.2;
+      font-size: 0.87em;
+      }
+
+      /* Roadmap titles should be yellow */
+      .roadmap-title {
+      font-family: 'Heroes Legend', Arial, sans-serif;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #FFD700 !important;
+      font-weight: bold;
+      line-height: 1.2;
+      font-size: 0.87em;
+      }
+
+      /* Yellow titles for all sections except hero */
+      .yellow-title {
+      font-family: 'Heroes Legend', Arial, sans-serif;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #FFD700 !important;
+      font-weight: bold;
+      line-height: 1.2;
+      font-size: 0.87em;
+      }
+
+      /* Better readability for regular text - Use Heroes Legend */
+      .readable-text {
+      font-family: 'Heroes Legend', Arial, sans-serif;
+      color: #ffffff !important;
+      line-height: 1.6;
+      letter-spacing: 0.3px;
+      font-weight: 500;
+      font-size: 0.85em;
+      }
+
+      /* Navigation text with better visibility */
+      .nav-text {
+      font-family: 'Heroes Legend', -apple-system, BlinkMacSystemFont, sans-serif;
+      color: #ffffff !important;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+      font-size: 0.85em;
+      }
+
+      /* Buttons with strong text */
+      .button-text {
+      font-family: 'Heroes Legend', Arial, sans-serif;
+      font-weight: bold;
+      letter-spacing: 1px;
+      font-size: 0.85em;
+      }
+
+      /* Small text class for better readability */
+      .small-text {
+      font-family: 'Heroes Legend', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-weight: 500;
+      letter-spacing: 0.2px;
+      line-height: 1.5;
+      font-size: 0.83em;
+      }
+    </style>
+
+    <script src="https://cdn.tailwindcss.com/"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              "binants-yellow": "#FFD700",
+              "binants-dark-yellow": "#FFA500",
+              "binants-black": "#1a1a1a",
+              "binants-gray": "#2a2a2a",
+              "gray-850": "#1f2937",
+            },
+            animation: {
+              "bounce-slow": "bounce 2s infinite",
+              "pulse-slow": "pulse 3s infinite",
+              float: "float 3s ease-in-out infinite",
+            },
+            keyframes: {
+              float: {
+                "0%, 100%": { transform: "translateY(0px)" },
+                "50%": { transform: "translateY(-10px)" },
+              },
+            },
+          },
+        },
+      };
+    </script>
+    <style>
+      html {
+        scroll-behavior: smooth;
+      }
+      .gradient-text {
+        background: linear-gradient(45deg, #ffd700, #ffa500);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+      }
+      
+      /* Meme Font Styles */
+      .meme-title {
+        font-family: 'Bangers', cursive;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        text-shadow: 3px 3px 0px #000, -1px -1px 0px #000, 1px -1px 0px #000, -1px 1px 0px #000;
+      }
+  
+      
+      .creepy-text {
+        font-family: 'Creepster', cursive;
+        text-shadow: 2px 2px 4px rgba(255, 0, 0, 0.5);
+      }
+      
+      .fun-text {
+        font-family: 'Fredoka One', cursive;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
+      }
+      
+      /* iOS Safari Touch Optimization */
+      * {
+        -webkit-tap-highlight-color: transparent;
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        user-select: none;
+      }
+
+      button,
+      a {
+        -webkit-tap-highlight-color: rgba(255, 215, 0, 0.1);
+        touch-action: manipulation;
+        cursor: pointer;
+      }
+
+      /* Prevent zoom on input focus in iOS */
+      input,
+      select,
+      textarea {
+        font-size: 16px;
+        -webkit-user-select: text;
+        user-select: text;
+      }
+      .card-hover {
+        transition: all 0.3s ease;
+      }
+      .card-hover:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 20px 40px rgba(255, 215, 0, 0.2);
+      }
+    </style>
+  </head>
+  <body class="bg-binants-black text-white">
+    <!-- Hidden assets container -->
+    <div style="display: none;">
+        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/pfp_yellow_32x32-DgtMcPem.jpg" alt="BINANTS 32x32"/>
+      <img src="../../../../../../../../../../../../../../../../../../../../../../assets/pfp_yellow-DTRJk88W.jpg" alt="Hidden asset" />
+      <img src="../../../../../../../../../../../../../../../../../../../../../../assets/pfp_yellow-BfPL5L75.svg" alt="Hidden asset SVG" />
+    </div>
+    
+    <main>
+      <!-- Navigation -->
+      <nav
+        class="fixed top-0 w-full bg-binants-black/90 backdrop-blur-sm z-50 border-b border-binants-yellow/20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="flex justify-between items-center h-16">
+            <div class="flex items-center space-x-2">
+              <img src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png" alt="Binants"
+                class="w-12 h-12" />
+              <span
+                class="text-xl font-bold text-binants-yellow binants-header mt-2">BINANTS</span>
+            </div>
+            <div class="hidden lg:flex space-x-8 mt-1">
+              <a
+                href="#home"
+                class="relative flex items-center hover:text-binants-yellow transition-colors group nav-text">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                  alt
+                  class="w-8 h-8 mb-2 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                Home
+              </a>
+              <a
+                href="#buy"
+                class="relative flex items-center hover:text-binants-yellow transition-colors group nav-text">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                  alt
+                  class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                Buy
+              </a>
+              <a
+                href="#about"
+                class="relative flex items-center hover:text-binants-yellow transition-colors group nav-text">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                  alt
+                  class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                About
+              </a>
+
+              <a
+                href="#roadmap"
+                class="relative flex items-center hover:text-binants-yellow transition-colors group nav-text">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                  alt
+                  class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                Roadmap
+              </a>
+              <a
+                href="#gallery"
+                class="relative flex items-center hover:text-binants-yellow transition-colors group nav-text">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                  alt
+                  class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+                Game
+              </a>
+            </div>
+            <div class="hidden lg:block mt-1">
+              <a
+                href="https://pancakeswap.finance/swap?outputCurrency=0xE00E6919895929090C2d5342Ae8375C169Cf8888"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="bg-binants-yellow text-binants-black px-6 py-2 rounded-full text-md hover:bg-binants-dark-yellow transition-colors transform hover:scale-105 shadow-lg button-text">
+                Buy
+              </a>
+            </div>
+            <button
+              id="mobile-menu-btn"
+              class="lg:hidden p-2"
+              onclick="toggleMobileMenu()"
+              style="cursor: pointer; -webkit-tap-highlight-color: transparent">
+              <svg
+                class="w-6 h-6"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24">
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M4 6h16M4 12h16M4 18h16"></path>
+              </svg>
+            </button>
+          </div>
+        </div>
+        <!-- Mobile menu -->
+        <div
+          id="mobile-menu"
+          class="hidden lg:hidden bg-binants-black/95 backdrop-blur-sm">
+          <div class="px-2 pt-2 pb-3 space-y-1">
+            <a
+              href="#home"
+              onclick="toggleMobileMenu()"
+              class="flex items-center px-3 py-2 hover:text-binants-yellow transition-colors group">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt
+                class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              Home
+            </a>
+            <a
+              href="#buy"
+              onclick="toggleMobileMenu()"
+              class="flex items-center px-3 py-2 hover:text-binants-yellow transition-colors group">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt
+                class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              Buy
+            </a>
+            <a
+              href="#about"
+              onclick="toggleMobileMenu()"
+              class="flex items-center px-3 py-2 hover:text-binants-yellow transition-colors group">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt
+                class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              About
+            </a>
+
+            <a
+              href="#roadmap"
+              onclick="toggleMobileMenu()"
+              class="flex items-center px-3 py-2 hover:text-binants-yellow transition-colors group">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt
+                class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              Roadmap
+            </a>
+            <a
+              href="#gallery"
+              onclick="toggleMobileMenu()"
+              class="flex items-center px-3 py-2 hover:text-binants-yellow transition-colors group">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt
+                class="w-8 h-8 mb-1 mr-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              Game
+            </a>
+            
+            <!-- Prominent Buy Button for Mobile -->
+            <div class="mt-4 px-3">
+              <a
+                href="https://pancakeswap.finance/swap?outputCurrency=0xE00E6919895929090C2d5342Ae8375C169Cf8888"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="block w-full bg-gradient-to-r from-binants-yellow to-yellow-400 text-binants-black font-bold py-3 px-4 rounded-xl text-center transform hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-binants-yellow/50 binants-title">
+                BUY BINANTS
+              </a>
+            </div>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Hero Section -->
+      <section
+        id="home"
+        class="min-h-screen bg-binants-black flex items-center justify-center relative overflow-hidden">
+        <div
+          class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full my-12 md:mt-0">
+          <div class="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
+            <!-- Left Content -->
+            <div class="text-center lg:text-left">
+              <div class="relative inline-block mb-6 mx-auto lg:mx-0">
+                <div
+                  class="absolute inset-0 bg-binants-yellow rounded-2xl transform -skew-x-6 shadow-2xl border-4 border-binants-dark-yellow"></div>
+                <h1
+                  class="relative text-3xl sm:text-4xl lg:text-5xl mt-2 md:mt-0 font-black text-binants-black transform -skew-x-6 px-6 sm:px-8 py-3 sm:py-4 animate-wiggle binants-title whitespace-nowrap">
+                  $BINANTS
+                </h1>
+              </div>
+              <p
+                class="text-lg sm:text-xl lg:text-2xl mb-8 text-white font-medium leading-relaxed readable-text">
+                United by memes. Bound by chain. WE IS BINANTS!
+              </p>
+
+              <!-- Social Icons -->
+              <div
+                class="flex justify-center lg:justify-start space-x-3 sm:space-x-4 mb-8">
+                <a
+                  href="https://x.com/BINANTS_bsc"
+                  target="_blank"
+                  class="w-14 h-14 sm:w-16 sm:h-16 bg-blue-500 rounded-full flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
+                  <img
+                    src="../../../../../../../../../../../../../../../../../../../../../../assets/x_logo-D-u34pMT.png"
+                    alt="X/Twitter Logo"
+                    class="w-full rounded-full text-white" />
+                </a>
+                <a
+                  href="https://t.me/Binants_Portal"
+                  target="_blank"
+                  class="w-14 h-14 sm:w-16 sm:h-16 bg-blue-500 rounded-full flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
+                  <img
+                    src="../../../../../../../../../../../../../../../../../../../../../../assets/tg-myAudR7P.png"
+                    alt="Telegram Logo"
+                    class="w-full rounded-full text-white" />
+                </a>
+                <a
+                  href="https://coinmarketcap.com/"
+                  target="_blank"
+                  class="w-14 h-14 sm:w-16 sm:h-16 bg-binants-black rounded-full flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
+                  <img
+                    src="../../../../../../../../../../../../../../../../../../../../../../assets/cmc_logo-7_jnq_k0.png"
+                    alt="CoinMarketCap Logo"
+                    class="w-full rounded-full text-white" />
+                </a>
+                <a
+                  href="https://dexscreener.com/bsc/0x2ea5c4494f524be65d328edb68bdcb414c5f90d7"
+                  target="_blank"
+                  class="w-14 h-14 sm:w-16 sm:h-16 bg-blue-600 rounded-full flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
+                  <img
+                    src="../../../../../../../../../../../../../../../../../../../../../../assets/dexscreener_logo-DKbn3tL8.png"
+                    alt="Dexscreener Logo"
+                    class="w-full rounded-full text-white" />
+                </a>
+                <a
+                  href="https://pancakeswap.finance/swap?outputCurrency=0xE00E6919895929090C2d5342Ae8375C169Cf8888"
+                  target="_blank"
+                  class="w-14 h-14 sm:w-16 sm:h-16 bg-pink-500 rounded-full flex items-center justify-center hover:scale-110 transition-transform shadow-lg">
+                  <img
+                    src="../../../../../../../../../../../../../../../../../../../../../../assets/pancake_logo-WmU7rRUI.png"
+                    alt="PancakeSwap Logo"
+                    class="w-full h-full rounded-full text-white" />
+                </a>
+              </div>
+
+              <div
+                class="flex flex-col sm:flex-row gap-4 justify-center md:justify-center lg:justify-start">
+                <a
+                  href="#buy"
+                  class="bg-binants-yellow text-binants-black px-4 mt-2 md:mt-0 sm:px-6 py-2 sm:py-3 rounded-full text-sm sm:text-base hover:bg-binants-dark-yellow transition-colors transform hover:scale-105 shadow-lg text-center button-text">
+                  BECOME BINANT
+                </a>
+              </div>
+            </div>
+
+            <!-- Right Content - Binants Character in Header -->
+            <div
+              class="flex justify-center lg:justify-end order-first lg:order-last">
+              <div class="relative">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                  alt="Binants Character"
+                  class="w-48 h-48 sm:w-64 sm:h-64 lg:w-80 lg:h-80 xl:w-[28rem] xl:h-[28rem] mt-10 lg:mt-0 object-contain animate-float drop-shadow-2xl relative z-10" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Scrolling Banner -->
+      <div
+        class="bg-binants-yellow py-2 overflow-hidden relative border-y-2 border-binants-dark-yellow">
+        <div class="scrolling-banner">
+          <div class="scrolling-text">
+            <span
+              class="text-binants-black font-bold text-sm sm:text-base lg:text-lg binants-title whitespace-nowrap">
+              I BINANT. YOU BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Buy BINANTS Section with PancakeSwap -->
+      <section
+        id="buy"
+        class="py-20 bg-binants-black relative overflow-hidden">
+        <!-- Background Pattern -->
+        <div class="absolute inset-0 opacity-5">
+          <div class="absolute top-20 left-1/4 w-16 h-16">
+            <img
+              src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+              alt
+              class="w-full h-full opacity-30" />
+          </div>
+          <div class="absolute bottom-20 right-1/4 w-20 h-20">
+            <img
+              src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+              alt
+              class="w-full h-full opacity-20" />
+          </div>
+        </div>
+
+        <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="text-center mb-12">
+            <div class="relative inline-block mb-6">
+              <div
+                class="absolute inset-0 bg-binants-yellow rounded-2xl transform -skew-x-6 shadow-2xl border-4 border-binants-dark-yellow"></div>
+              <h2
+                class="relative text-2xl sm:text-3xl lg:text-4xl font-black text-binants-black transform -skew-x-6 px-8 py-4 binants-title">
+                BECOME BINANT
+              </h2>
+            </div>
+            <p class="text-lg sm:text-xl text-gray-300 mb-8 small-text">
+              One BINANT? Can die. All BINANTS? Wah piang, market break lah
+            </p>
+
+            <!-- Hand Images -->
+            <div class="flex justify-center items-center gap-8 mb-8">
+              <div class="flex-1 flex justify-end">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/hand1-dO42vkbp.png"
+                  alt="Hand 1"
+                  class="w-32 h-32 lg:w-44 lg:h-44 object-contain drop-shadow-lg animate-float" />
+              </div>
+              <div class="flex-1 flex justify-start">
+                <img
+                  src="../../../../../../../../../../../../../../../../../../../../../../assets/hand2-CzRcOFR6.png"
+                  alt="Hand 2"
+                  class="w-32 h-32 lg:w-44 lg:h-44 object-contain drop-shadow-lg animate-float"
+                  style="animation-delay: 0.5s;" />
+              </div>
+            </div>
+          </div>
+
+          <div class="grid lg:grid-cols-2 gap-8 lg:gap-12 items-stretch">
+            <!-- PancakeSwap Interface -->
+            <div class="relative h-full">
+              <div
+                class="absolute inset-0 bg-binants-yellow/5 rounded-2xl blur-xl"></div>
+              <div
+                class="relative bg-gradient-to-br from-gray-800 to-gray-900 p-6 rounded-2xl border border-binants-yellow/30 shadow-2xl h-full flex flex-col">
+                <div class="flex items-center justify-center mb-6">
+                  <img
+                    src="../../../../../../../../../../../../../../../../../../../../../../assets/pancake_logo-WmU7rRUI.png"
+                    alt="PancakeSwap"
+                    class="w-8 h-8 mr-3 rounded-full" />
+                  <h3
+                    class="text-xl font-bold text-binants-yellow binants-header">
+                    Buy on PancakeSwap
+                  </h3>
+                </div>
+
+                <!-- PancakeSwap Embedded Widget -->
+                <div
+                  class="bg-gray-900 rounded-xl p-4 border border-gray-700 flex-grow">
+                  <iframe
+                    src="https://pancakeswap.finance/swap?outputCurrency=0xE00E6919895929090C2d5342Ae8375C169Cf8888&amp;inputCurrency=BNB"
+                    width="100%"
+                    height="500"
+                    frameborder="0"
+                    class="rounded-lg"
+                    allow="clipboard-read; clipboard-write"
+                    title="PancakeSwap Interface"></iframe>
+                </div>
+
+                <div class="mt-4 text-center">
+                  <p class="text-sm text-gray-400 mb-4 small-text">
+                    Swap BNB for $BINANTS directly on PancakeSwap
+                  </p>
+                  <div
+                    class="mb-4 p-3 bg-binants-black/50 rounded-lg border border-binants-yellow/20">
+                    <div class="flex items-center justify-between">
+                      <span class="text-gray-300 text-xs small-text">CA:</span>
+                      <div class="flex items-center space-x-2">
+                        <span
+                          class="text-binants-yellow font-mono text-xs binants-header"
+                          data-full-address="0xE00E6919895929090C2d5342Ae8375C169Cf8888">0xE00E...Cf8888</span>
+                        <button
+                          id="copy-btn-1"
+                          onclick="copyContractAddress('copy-btn-1')"
+                          class="bg-binants-yellow/20 hover:bg-binants-yellow/30 text-binants-yellow px-2 py-1 rounded text-xs transition-colors">
+                          <span class="copy-text">Copy</span>
+                          <span class="checkmark-text hidden">✓</span>
+                        </button>
+                      </div>
+                    </div>
+                  </div>
+                  <a
+                    href="https://pancakeswap.finance/swap?outputCurrency=0xE00E6919895929090C2d5342Ae8375C169Cf8888"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    class="inline-flex items-center bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-full font-bold transition-colors shadow-lg button-text">
+                    <img
+                      src="../../../../../../../../../../../../../../../../../../../../../../assets/pancake_logo-WmU7rRUI.png"
+                      alt
+                      class="w-5 h-5 mr-2 rounded-full" />
+                    Open PancakeSwap
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <!-- How to Buy Guide -->
+            <div class="space-y-6 h-full flex flex-col">
+              <div
+                class="relative bg-gradient-to-br from-binants-gray to-binants-black p-6 rounded-2xl border border-binants-yellow/30 shadow-2xl flex-grow">
+                <div
+                  class="absolute inset-0 bg-gradient-to-br from-binants-yellow/5 to-transparent rounded-2xl"></div>
+                <div class="relative">
+                  <h3
+                    class="text-xl font-bold text-binants-yellow mb-4 binants-header">
+                    How to Buy $BINANTS
+                  </h3>
+                  <div class="grid grid-cols-1 gap-4">
+                    <div
+                      class="bg-binants-black/50 p-4 rounded-xl border border-binants-yellow/20">
+                      <div class="flex items-center mb-2">
+                        <div
+                          class="w-6 h-6 bg-binants-yellow rounded-full flex items-center justify-center text-binants-black font-bold text-xs mr-3 button-text">
+                          1
+                        </div>
+                        <h4 class="font-semibold text-white small-text">Plug
+                          Wallet</h4>
+                      </div>
+                      <p class="text-gray-300 text-sm small-text ml-9">Just plug
+                        in lah.</p>
+                    </div>
+
+                    <div
+                      class="bg-binants-black/50 p-4 rounded-xl border border-binants-yellow/20">
+                      <div class="flex items-center mb-2">
+                        <div
+                          class="w-6 h-6 bg-binants-yellow rounded-full flex items-center justify-center text-binants-black font-bold text-xs mr-3 button-text">
+                          2
+                        </div>
+                        <h4 class="font-semibold text-white small-text">Throw
+                          BNB</h4>
+                      </div>
+                      <p class="text-gray-300 text-sm small-text ml-9">Got gas?
+                        Can move.</p>
+                    </div>
+
+                    <div
+                      class="bg-binants-black/50 p-4 rounded-xl border border-binants-yellow/20">
+                      <div class="flex items-center mb-2">
+                        <div
+                          class="w-6 h-6 bg-binants-yellow rounded-full flex items-center justify-center text-binants-black font-bold text-xs mr-3 button-text">
+                          3
+                        </div>
+                        <h4 class="font-semibold text-white small-text">Buy
+                          BINANTS</h4>
+                      </div>
+                      <p class="text-gray-300 text-sm small-text ml-9">Life
+                        before BINANTS? Gone lah.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Token Info -->
+              <div
+                class="relative bg-gradient-to-br from-binants-gray to-binants-black p-6 rounded-2xl border border-binants-yellow/30 shadow-2xl">
+                <div
+                  class="absolute inset-0 bg-gradient-to-br from-binants-yellow/5 to-transparent rounded-2xl"></div>
+                <div class="relative">
+                  <div class="flex items-center justify-center space-x-3">
+                    <span class="text-gray-300 small-text">CA:</span>
+                    <span
+                      class="text-binants-yellow font-mono text-sm binants-header"
+                      data-full-address="0xE00E6919895929090C2d5342Ae8375C169Cf8888">0xE00E...Cf8888</span>
+                    <button
+                      id="copy-btn-2"
+                      onclick="copyContractAddress('copy-btn-2')"
+                      class="bg-binants-yellow/20 hover:bg-binants-yellow/30 text-binants-yellow px-2 py-1 rounded text-xs transition-colors">
+                      <span class="copy-text">Copy</span>
+                      <span class="checkmark-text hidden">✓</span>
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Scrolling Banner -->
+      <div
+        class="bg-binants-yellow py-2 overflow-hidden relative border-y-2 border-binants-dark-yellow">
+        <div class="scrolling-banner">
+          <div class="scrolling-text">
+            <span
+              class="text-binants-black font-bold text-sm sm:text-base lg:text-lg binants-title whitespace-nowrap">
+              I BINANT. YOU BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- About Section -->
+      <section
+        id="about"
+        class="pt-20 bg-binants-black relative overflow-hidden">
+        <!-- Background Pattern -->
+        <div class="absolute inset-0 opacity-5">
+          <div class="absolute top-10 left-10 w-20 h-20">
+            <img
+              src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+              alt
+              class="w-full h-full opacity-30" />
+          </div>
+          <div class="absolute top-40 right-20 w-16 h-16">
+            <img
+              src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+              alt
+              class="w-full h-full opacity-20" />
+          </div>
+          <div class="absolute bottom-20 left-1/4 w-12 h-12">
+            <img
+              src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+              alt
+              class="w-full h-full opacity-25" />
+          </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <!-- Main Content - Centered -->
+          <div class="text-center mb-16">
+            <div class="relative inline-block mb-6">
+              <div
+                class="absolute inset-0 bg-binants-yellow rounded-2xl transform -skew-x-6 shadow-2xl border-4 border-binants-dark-yellow"></div>
+              <h2
+                class="relative text-2xl sm:text-3xl lg:text-4xl font-black text-binants-black transform -skew-x-6 px-8 py-4 binants-title">
+                WHAT IS BINANTS?
+              </h2>
+            </div>
+            <p
+              class="text-lg sm:text-xl text-gray-300 max-w-3xl mx-auto readable-text">
+              <span class="text-binants-yellow font-bold binants-header">United
+                by memes. Bound by chain. WE IS BINANTS!</span><br /><br />
+              Not just meme project. We is BINANTS!<br /><br />
+              Born from memes, madness, and pure community vibes. First real
+              mascot of Binance and BSC. We march to Binance. Soon everywhere...
+            </p>
+
+            <!-- Glow GIF only -->
+            <div class="flex justify-center mt-8 relative">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/glow-DyWlIHtq.gif"
+                alt="Glow Effect"
+                class="w-72 h-72 lg:w-[28rem] lg:h-[28rem] object-contain pointer-events-none select-none" />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Scrolling Banner -->
+      <div
+        class="lg:hidden bg-binants-yellow py-2 overflow-hidden relative border-y-2 border-binants-dark-yellow">
+        <div class="scrolling-banner">
+          <div class="scrolling-text">
+            <span
+              class="text-binants-black font-bold text-sm sm:text-base lg:text-lg binants-title whitespace-nowrap">
+              I BINANT. YOU BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+              BINANT. WE IS BINAAAANTS!
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Roadmap Section -->
+      <section
+        id="roadmap"
+        class="bg-binants-black relative overflow-hidden mt-20">
+        <!-- Background Pattern -->
+        <div class="absolute inset-0 opacity-5">
+          <div class="absolute top-32 left-20 w-20 h-20">
+            <img
+              src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+              alt
+              class="w-full h-full opacity-30" />
+          </div>
+          <div class="absolute bottom-32 right-20 w-16 h-16">
+            <img
+              src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+              alt
+              class="w-full h-full opacity-20" />
+          </div>
+        </div>
+
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div class="text-center mb-16">
+            <div class="relative inline-block mb-6">
+              <div
+                class="absolute inset-0 bg-binants-yellow rounded-2xl transform -skew-x-6 shadow-2xl border-4 border-binants-dark-yellow"></div>
+              <h2
+                class="relative text-2xl sm:text-3xl lg:text-4xl font-black text-binants-black transform -skew-x-6 px-8 py-4 binants-title">
+                ROADMAP
+              </h2>
+            </div>
+            <p class="text-lg sm:text-xl text-gray-300 small-text">FROM BINANTS
+              TO BINANCE</p>
+          </div>
+
+          <!-- Simple 3-Phase Roadmap with Images like in screenshot -->
+          <div class="grid md:grid-cols-5 gap-8 max-w-7xl mx-auto items-start">
+            <!-- Left Image -->
+            <div class="hidden md:block">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt="Binants Left"
+                class="w-32 h-32 object-contain mx-auto animate-bounce" />
+            </div>
+
+            <!-- Phase 1 -->
+            <div class="text-center">
+              <div
+                class="bg-binants-yellow text-binants-black rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-6 text-2xl font-bold">
+                <span class="mr-2">1</span>
+              </div>
+              <h3
+                class="text-lg font-bold text-binants-yellow mb-4 roadmap-title">
+                ARMY ASSEMBLY
+              </h3>
+              <p class="text-gray-300 text-md small-text">
+                Call the ARMY. Build the vibe. Spread everywhere.
+              </p>
+            </div>
+
+            <!-- Phase 2 -->
+            <div class="text-center">
+              <div
+                class="bg-binants-yellow text-binants-black rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-6 text-2xl font-bold">
+                <span class="mr-1.5">2</span>
+              </div>
+              <h3
+                class="text-lg font-bold text-binants-yellow mb-4 roadmap-title">
+                BINANTS TAKEOVER
+              </h3>
+              <p class="text-gray-300 text-md small-text">
+                BSC we take. Meme viral. Momentum unstoppable liao.
+              </p>
+            </div>
+
+            <!-- Phase 3 -->
+            <div class="text-center">
+              <div
+                class="bg-binants-yellow text-binants-black rounded-full w-16 h-16 flex items-center justify-center mx-auto mb-6 text-2xl font-bold">
+                <span class="mr-1.5">3</span>
+              </div>
+              <h3
+                class="text-lg font-bold text-binants-yellow mb-4 roadmap-title">
+                BINANTS ON BINANCE
+              </h3>
+              <p class="text-gray-300 text-md small-text">
+                Final mission - Binance list us or we camp outside HQ.
+              </p>
+            </div>
+
+            <!-- Right Image -->
+            <div class="hidden md:block">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt="Binants Right"
+                class="w-32 h-32 object-contain mx-auto animate-bounce" />
+            </div>
+          </div>
+
+          <!-- Retro TV Video Section -->
+          <div class="flex justify-center mt-16 mb-8">
+            <div class="relative">
+              <!-- Old TV Frame -->
+              <div
+                class="relative bg-gradient-to-b from-gray-800 via-gray-900 to-black p-4 rounded-3xl shadow-2xl border-2 border-gray-700"
+                style="max-width: 600px;">
+                <!-- TV Screen Bezel -->
+                <div
+                  class="relative bg-black p-2 rounded-2xl shadow-inner border border-gray-600">
+                  <!-- Video Container -->
+                  <div class="relative bg-gray-900 rounded-xl overflow-hidden"
+                    style="aspect-ratio: 16/9;">
+                    <!-- Static/Noise overlay for retro effect -->
+                    <div
+                      class="absolute inset-0 bg-gradient-to-br from-transparent via-gray-800/20 to-transparent pointer-events-none z-10"></div>
+
+                    <!-- Video -->
+                    <video
+                      class="w-full h-full object-cover rounded-xl"
+                      autoplay
+                      loop
+                      muted
+                      playsinline>
+                      <source src="../../../../../../../../../../../../../../../../../../../../../../assets/binant_video_1-DlBBhWGJ.mp4" type="video/mp4">
+                      Your browser does not support the video tag.
+                    </video>
+
+                    <!-- Scanlines effect -->
+                    <div
+                      class="absolute inset-0 pointer-events-none z-20 opacity-20"
+                      style="background: linear-gradient(transparent 50%, rgba(0,255,0,0.1) 50%), linear-gradient(90deg, transparent 50%, rgba(0,0,0,0.1) 50%); background-size: 100% 2px, 2px 100%;"></div>
+                  </div>
+                </div>
+
+                <!-- TV Controls -->
+                <div class="absolute bottom-0.5 right-7 flex space-x-2">
+                  <div class="w-3 h-3 bg-red-500 rounded-full shadow-lg"></div>
+                  <div
+                    class="w-3 h-3 bg-yellow-400 rounded-full shadow-lg"></div>
+                  <div
+                    class="w-3 h-3 bg-green-500 rounded-full shadow-lg"></div>
+                </div>
+
+                <!-- TV Brand/Logo -->
+                <div class="absolute top-0 right-5">
+                  <span class="text-gray-400 text-xs font-bold">BINANTS
+                    TV</span>
+                </div>
+
+                <!-- TV Stand -->
+                <div
+                  class="absolute -bottom-4 left-1/2 transform -translate-x-1/2 w-20 h-8 bg-gradient-to-b from-gray-700 to-gray-900 rounded-b-xl"></div>
+              </div>
+
+              <!-- Glow effect -->
+              <div
+                class="absolute -inset-4 bg-binants-yellow/10 rounded-3xl blur-xl -z-10"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Scrolling Banner -->
+        <div
+          class="bg-binants-yellow py-2 overflow-hidden relative border-y-2 border-binants-dark-yellow mt-20">
+          <div class="scrolling-banner">
+            <div class="scrolling-text">
+              <span
+                class="text-binants-black font-bold text-sm sm:text-base lg:text-lg binants-title whitespace-nowrap">
+                I BINANT. YOU BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Hardest Working Binants Section -->
+        <section
+          id="gallery"
+          class="pb-20 pt-32 bg-binants-black relative overflow-hidden">
+          <!-- Background Pattern -->
+          <div class="absolute inset-0 opacity-5">
+            <div class="absolute top-16 left-16 w-20 h-20">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt
+                class="w-full h-full opacity-30" />
+            </div>
+            <div class="absolute bottom-16 right-16 w-16 h-16">
+              <img
+                src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                alt
+                class="w-full h-full opacity-20" />
+            </div>
+          </div>
+
+          <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-16">
+              <div class="relative inline-block mb-6">
+                <div
+                  class="absolute inset-0 bg-binants-yellow rounded-2xl transform -skew-x-6 shadow-2xl border-4 border-binants-dark-yellow"></div>
+                <h2
+                  class="relative text-2xl sm:text-3xl lg:text-4xl font-black text-binants-black transform -skew-x-6 px-8 py-4 binants-title">
+                  PROVE YOU BINANT
+                </h2>
+              </div>
+              <p class="text-lg sm:text-xl text-gray-300 small-text">
+                Click to unlock badge. See which BINANTS grind real one.
+              </p>
+            </div>
+
+            <!-- Clicker and Achievement Layout -->
+            <div
+              class="flex flex-col sm:flex-row justify-center items-start mb-8 space-y-4 sm:space-y-0 sm:space-x-8">
+              <div class="flex flex-col items-center">
+                <!-- Main Click Button - At the top -->
+                <div class="text-center mb-6 sm:mb-0 relative">
+                  <!-- First Click Overlay with Text -->
+                  <div id="first-click-overlay" class="first-click-overlay">
+                    <div class="first-click-text">CLICK ME! 👆</div>
+                  </div>
+                  
+                  <button
+                    id="binant-btn"
+                    onclick="incrementClicks()"
+                    class="w-40 h-40 sm:w-48 sm:h-48 lg:w-56 lg:h-56 bg-gradient-to-br from-binants-yellow to-binants-dark-yellow rounded-full flex items-center justify-center shadow-2xl border-3 sm:border-4 border-yellow-300 mx-auto transition-all duration-150 hover:scale-105 active:scale-95"
+                    style="cursor: pointer; -webkit-tap-highlight-color: transparent; touch-action: manipulation; user-select: none; box-shadow: 0 0 30px rgba(255, 215, 0, 0.5);">
+                    <img
+                      src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png"
+                      alt="Click me!"
+                      class="w-24 h-24 sm:w-28 sm:h-28 lg:w-32 lg:h-32 drop-shadow-lg transition-transform duration-150"
+                      id="binant-img" />
+                  </button>
+                  <p
+                    class="mt-4 sm:mt-6 text-base sm:text-lg font-bold small-text">
+                    Work like BINANT. Unlock like legend
+                  </p>
+                </div>
+
+                <!-- Click Stats Display -->
+                <div class="text-center mt-4 sm:mt-2">
+                  <div
+                    class="bg-binants-black/90 p-3 sm:p-4 rounded-xl border-2 border-binants-yellow/40 shadow-xl inline-block">
+                    <span id="click-counter"
+                      class="text-lg sm:text-xl lg:text-2xl font-bold text-binants-yellow block">0
+                      clicks</span>
+                    <span class="text-xs text-gray-400 small-text">Total
+                      Clicks</span>
+                  </div>
+                </div>
+
+              </div>
+              <!-- Achievement Card -->
+              <div class="flex justify-center sm:justify-start">
+                <!-- Achievement - Single Transforming Card -->
+                <div class="flex justify-center mb-8">
+                  <div
+                    id="achievement-card"
+                    class="relative bg-gradient-to-br from-gray-800 to-gray-900 p-4 sm:p-6 rounded-2xl border-2 border-gray-600/30 shadow-2xl max-w-sm sm:max-w-md w-full mx-4 hover:scale-105 transition-all duration-300">
+                    <div
+                      class="absolute inset-0 bg-gradient-to-br from-gray-700/10 to-transparent rounded-2xl"></div>
+                    <div class="relative text-center">
+                      <!-- Achievement Image -->
+                      <div
+                        class="w-full aspect-square bg-gray-700 rounded-lg mb-4 sm:mb-6 flex items-center justify-center overflow-hidden relative">
+                        <div
+                          class="absolute inset-0 bg-gray-700 flex items-center justify-center flex-col"
+                          id="achievement-placeholder">
+                          <span
+                            class="text-3xl sm:text-5xl text-gray-400 mb-2">🔒</span>
+                          <span
+                            class="text-xs sm:text-sm text-gray-400 text-center px-2">Click
+                            to unlock</span>
+                        </div>
+                        <img id="achievement-image" src alt="Achievement"
+                          class="w-full h-full object-cover hidden transition-all duration-500" />
+                      </div>
+
+                      <!-- Achievement Title and Description -->
+                      <div class="mb-4 sm:mb-6">
+                        <h3 id="achievement-title"
+                          class="text-lg sm:text-xl font-bold text-gray-400 mb-2 sm:mb-3">LOCKED</h3>
+                        <p id="achievement-description"
+                          class="text-gray-500 text-sm mb-3 sm:mb-4">Start
+                          clicking to unlock your first transformation!</p>
+                      </div>
+
+                      <!-- Progress Bar -->
+                      <div
+                        class="bg-gray-600 rounded-full h-3 sm:h-4 overflow-hidden mb-3 sm:mb-4">
+                        <div id="achievement-progress"
+                          class="bg-gradient-to-r from-binants-yellow to-yellow-400 h-full rounded-full transition-all duration-500"
+                          style="width: 0%"></div>
+                      </div>
+
+                      <!-- Progress Text -->
+                      <div class="text-center">
+                        <span id="progress-text" class="text-gray-400 text-sm">0
+                          / 100 points</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Progress Bar - At the bottom -->
+            <div
+              class="relative bg-gradient-to-br from-binants-gray to-binants-black p-6 sm:p-8 rounded-3xl border-2 border-binants-yellow/40 shadow-2xl mb-8">
+              <div
+                class="absolute inset-0 bg-gradient-to-br from-binants-yellow/5 to-transparent rounded-3xl"></div>
+              <div class="relative">
+                <h3
+                  class="text-xl sm:text-2xl font-bold text-binants-yellow mb-6 text-center roadmap-title">BINANT
+                  EVOLUTION</h3>
+
+                <div class="relative mb-6">
+                  <!-- Progress Track - Only Desktop -->
+                  <div
+                    class="absolute top-[25%] left-2 sm:left-4 lg:left-8 right-2 sm:right-4 lg:right-8 h-2 sm:h-3 lg:h-4 bg-gray-700 rounded-full transform -translate-y-1/2 border border-gray-600 hidden sm:block"></div>
+                  <div
+                    class="absolute top-[25%] left-2 sm:left-4 lg:left-8 right-2 sm:right-4 lg:right-8 h-2 sm:h-3 lg:h-4 bg-gradient-to-r from-binants-yellow via-yellow-400 to-binants-dark-yellow rounded-full transform -translate-y-1/2 transition-all duration-700 shadow-lg hidden sm:block"
+                    id="evolution-progress"
+                    style="width: 0%; box-shadow: 0 0 15px rgba(255, 215, 0, 0.4);"></div>
+
+                  <!-- Mobile First: 5 Steps vertical -->
+                  <div class="block sm:hidden space-y-4 relative z-10 px-2">
+                    <!-- Step 1: Degen Alone (100 clicks) -->
+                    <div
+                      class="flex items-center space-x-3 bg-gray-800/50 rounded-lg p-2"
+                      id="step-1">
+                      <div
+                        class="w-10 h-10 bg-gray-600 rounded-full border border-gray-500 flex items-center justify-center transition-all duration-300 shadow-lg flex-shrink-0">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png" alt="Degen Alone"
+                          class="w-8 h-8 opacity-50" />
+                      </div>
+                      <div class="flex-grow min-w-0">
+                        <span
+                          class="text-xs font-bold text-gray-400 block">RUGGED
+                          DEGEN</span>
+                        <span class="text-xs text-gray-500">100 clicks</span>
+                      </div>
+                      <div
+                        class="flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full flex items-center justify-center -ml-1">
+                        <span class="text-sm font-bold text-gray-500">1</span>
+                      </div>
+                    </div>
+
+                    <!-- Step 2: Degen Realize (1K clicks) -->
+                    <div
+                      class="flex items-center space-x-3 bg-gray-800/50 rounded-lg p-2"
+                      id="step-2">
+                      <div
+                        class="w-10 h-10 bg-gray-600 rounded-full border border-gray-500 flex items-center justify-center transition-all duration-300 shadow-lg flex-shrink-0">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/mouth-CH4sEkiJ.png" alt="Degen Realize"
+                          class="w-8 h-8 opacity-50" />
+                      </div>
+                      <div class="flex-grow min-w-0">
+                        <span
+                          class="text-xs font-bold text-gray-400 block">TRYHARD
+                          DEGEN</span>
+                        <span class="text-xs text-gray-500">1K clicks</span>
+                      </div>
+                      <div
+                        class="flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full flex items-center justify-center -ml-1">
+                        <span class="text-sm font-bold text-gray-500">2</span>
+                      </div>
+                    </div>
+
+                    <!-- Step 3: Degen Binant (10K clicks) -->
+                    <div
+                      class="flex items-center space-x-3 bg-gray-800/50 rounded-lg p-2"
+                      id="step-3">
+                      <div
+                        class="w-10 h-10 bg-gray-600 rounded-full border border-gray-500 flex items-center justify-center transition-all duration-300 shadow-lg flex-shrink-0">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/cool-CpMdfEUO.png" alt="Degen Binant"
+                          class="w-8 h-8 opacity-50" />
+                      </div>
+                      <div class="flex-grow min-w-0">
+                        <span
+                          class="text-xs font-bold text-gray-400 block">BINANTS
+                          BELIEVER</span>
+                        <span class="text-xs text-gray-500">10K clicks</span>
+                      </div>
+                      <div
+                        class="flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full flex items-center justify-center -ml-1">
+                        <span class="text-sm font-bold text-gray-500">3</span>
+                      </div>
+                    </div>
+
+                    <!-- Step 4: BINANT GOD (100K clicks) -->
+                    <div
+                      class="flex items-center space-x-3 bg-gray-800/50 rounded-lg p-2"
+                      id="step-4">
+                      <div
+                        class="w-10 h-10 bg-gray-600 rounded-full border border-gray-500 flex items-center justify-center transition-all duration-300 shadow-lg flex-shrink-0">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/god-BIWlWXBb.png" alt="Binant God"
+                          class="w-8 h-8 opacity-50" />
+                      </div>
+                      <div class="flex-grow min-w-0">
+                        <span
+                          class="text-xs font-bold text-gray-400 block">BINANTS
+                          SOLDIER</span>
+                        <span class="text-xs text-gray-500">100K clicks</span>
+                      </div>
+                      <div
+                        class="flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full flex items-center justify-center -ml-1">
+                        <span class="text-sm font-bold text-gray-500">4</span>
+                      </div>
+                    </div>
+
+                    <!-- Step 5: We is Binants (1M clicks) -->
+                    <div
+                      class="flex items-center space-x-3 bg-gray-800/50 rounded-lg p-2"
+                      id="step-5">
+                      <div
+                        class="w-10 h-10 bg-gray-600 rounded-full border border-gray-500 flex items-center justify-center transition-all duration-300 shadow-lg flex-shrink-0">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/angry_head-BlBmGgcY.png" alt="We is Binants"
+                          class="w-8 h-8 opacity-50" />
+                      </div>
+                      <div class="flex-grow min-w-0">
+                        <span
+                          class="text-xs font-bold text-gray-400 block">BINANTS
+                          OG</span>
+                        <span class="text-xs text-gray-500">1M clicks</span>
+                      </div>
+                      <div
+                        class="flex-shrink-0 w-8 h-8 bg-gray-700 rounded-full flex items-center justify-center -ml-1">
+                        <span class="text-sm font-bold text-gray-500">5</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <!-- Desktop/Tablet: Horizontal Layout -->
+                  <div
+                    class="hidden sm:flex justify-between items-center relative z-10 px-1">
+                    <!-- Step 1: Degen Alone (100 clicks) -->
+                    <div
+                      class="flex flex-col items-center min-w-0 flex-shrink-0"
+                      id="step-1">
+                      <div
+                        class="w-10 h-10 sm:w-12 sm:h-12 lg:w-18 lg:h-18 bg-gray-600 rounded-full border-2 sm:border-3 border-gray-500 flex items-center justify-center mb-1 sm:mb-2 transition-all duration-300 shadow-lg">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png" alt="Degen Alone"
+                          class="w-5 h-5 sm:w-6 sm:h-6 lg:w-10 lg:h-10 opacity-50" />
+                      </div>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text">RUGGED</span>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text mt-1">DEGEN</span>
+                      <span class="text-xs text-gray-500 mt-1 small-text">100
+                        clicks</span>
+                    </div>
+
+                    <!-- Step 2: Degen Realize (1K clicks) -->
+                    <div
+                      class="flex flex-col items-center min-w-0 flex-shrink-0"
+                      id="step-2">
+                      <div
+                        class="w-10 h-10 sm:w-12 sm:h-12 lg:w-18 lg:h-18 bg-gray-600 rounded-full border-2 sm:border-3 border-gray-500 flex items-center justify-center mb-1 sm:mb-2 transition-all duration-300 shadow-lg">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/mouth-CH4sEkiJ.png" alt="Degen Realize"
+                          class="w-5 h-5 sm:w-6 sm:h-6 lg:w-10 lg:h-10 opacity-50" />
+                      </div>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text">TRYHARD</span>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text mt-1">DEGEN</span>
+                      <span class="text-xs text-gray-500 mt-1 small-text">1K
+                        clicks</span>
+                    </div>
+
+                    <!-- Step 3: Degen Binant (10K clicks) -->
+                    <div
+                      class="flex flex-col items-center min-w-0 flex-shrink-0"
+                      id="step-3">
+                      <div
+                        class="w-10 h-10 sm:w-12 sm:h-12 lg:w-18 lg:h-18 bg-gray-600 rounded-full border-2 sm:border-3 border-gray-500 flex items-center justify-center mb-1 sm:mb-2 transition-all duration-300 shadow-lg">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/cool-CpMdfEUO.png" alt="Degen Binant"
+                          class="w-5 h-5 sm:w-6 sm:h-6 lg:w-10 lg:h-10 opacity-50" />
+                      </div>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text">BINANTS</span>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text mt-1">BELIEVER</span>
+                      <span class="text-xs text-gray-500 mt-1 small-text">10K
+                        clicks</span>
+                    </div>
+
+                    <!-- Step 4: BINANT GOD (100K clicks) -->
+                    <div
+                      class="flex flex-col items-center min-w-0 flex-shrink-0"
+                      id="step-4">
+                      <div
+                        class="w-10 h-10 sm:w-12 sm:h-12 lg:w-18 lg:h-18 bg-gray-600 rounded-full border-2 sm:border-3 border-gray-500 flex items-center justify-center mb-1 sm:mb-2 transition-all duration-300 shadow-lg">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/god-BIWlWXBb.png" alt="Binant God"
+                          class="w-5 h-5 sm:w-6 sm:h-6 lg:w-10 lg:h-10 opacity-50" />
+                      </div>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text">BINANTS</span>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text mt-1">SOLDIER</span>
+                      <span class="text-xs text-gray-500 mt-1 small-text">100K
+                        clicks</span>
+                    </div>
+
+                    <!-- Step 5: We is Binants (1M clicks) -->
+                    <div
+                      class="flex flex-col items-center min-w-0 flex-shrink-0"
+                      id="step-5">
+                      <div
+                        class="w-10 h-10 sm:w-12 sm:h-12 lg:w-18 lg:h-18 bg-gray-600 rounded-full border-2 sm:border-3 border-gray-500 flex items-center justify-center mb-1 sm:mb-2 transition-all duration-300 shadow-lg">
+                        <img src="../../../../../../../../../../../../../../../../../../../../../../assets/angry_head-BlBmGgcY.png" alt="We is Binants"
+                          class="w-5 h-5 sm:w-6 sm:h-6 lg:w-10 lg:h-10 opacity-50" />
+                      </div>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text">BINANTS</span>
+                      <span
+                        class="text-xs font-bold text-gray-400 text-center small-text mt-1">OG</span>
+                      <span class="text-xs text-gray-500 mt-1 small-text">1M
+                        clicks</span>
+                    </div>
+                  </div>
+                </div>
+
+                <!-- Current Stats Display -->
+                <div
+                  class="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4 text-center">
+                  <div class="bg-gray-800 p-2 sm:p-3 rounded-lg">
+                    <div class="text-green-400 font-bold text-base sm:text-lg"
+                      id="current-multiplier">1x</div>
+                    <div
+                      class="text-gray-400 text-xs small-text">Multiplier</div>
+                  </div>
+                  <div class="bg-gray-800 p-2 sm:p-3 rounded-lg">
+                    <div class="text-blue-400 font-bold text-base sm:text-lg"
+                      id="current-level">1</div>
+                    <div class="text-gray-400 text-xs small-text">Level</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Scrolling Banner -->
+        <div
+          class="bg-binants-yellow py-2 overflow-hidden relative border-y-2 border-binants-dark-yellow">
+          <div class="scrolling-banner">
+            <div class="scrolling-text">
+              <span
+                class="text-binants-black font-bold text-sm sm:text-base lg:text-lg binants-title whitespace-nowrap">
+                I BINANT. YOU BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I BINANT. YOU
+                BINANT. WE IS BINAAAANTS!
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Final BECOME BINANT Section -->
+        <section class="py-20 bg-binants-black relative overflow-hidden">
+          <!-- Background Effects -->
+          <div class="absolute inset-0 opacity-10">
+            <div class="absolute top-10 left-10 w-24 h-24">
+              <img src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png" alt
+                class="w-full h-full animate-pulse" />
+            </div>
+            <div class="absolute bottom-10 right-10 w-32 h-32">
+              <img src="../../../../../../../../../../../../../../../../../../../../../../assets/binants_head-Djxssa4Y.png" alt
+                class="w-full h-full animate-bounce" />
+            </div>
+          </div>
+
+          <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <!-- Giant BECOME BINANT Button -->
+            <div class="relative inline-block mb-12">
+              <div
+                class="absolute inset-0 bg-gradient-to-r from-binants-yellow to-yellow-400 rounded-2xl blur-lg animate-pulse"></div>
+              <a
+                href="#buy"
+                class="relative inline-block bg-gradient-to-r from-binants-yellow to-yellow-400 binants-title px-12 py-6 rounded-2xl text-2xl sm:text-3xl  transform hover:scale-105 transition-all duration-300 shadow-2xl hover:shadow-binants-yellow/50">
+                BECOME BINANT
+              </a>
+            </div>
+
+            <!-- Mission Statement -->
+            <div class="max-w-7xl mx-auto px-8">
+              <p
+                class="text-gray-300 text-xs sm:text-sm lg:text-base leading-relaxed text-center readable-text">
+                We sick of Solana pump-n-dump. Sick of every new coin same same
+                hype, rug, disappear.
+                <span
+                  class="text-binants-yellow font-bold binants-header">BINANTS
+                  not trend. Is mission.</span>
+                We here to make BSC great again. No bridge hop. No VC puppet. We
+                build here. We stay here.
+                You want noise? Go scroll. <span
+                  class="text-binants-yellow font-bold binants-header">You want
+                  purpose? BECOME BINANT.</span>
+              </p>
+            </div>
+          </div>
+        </section>
+        <!-- Footer -->
+        <footer class="bg-binants-black py-6 border-t border-binants-yellow/20">
+          <div class="w-full">
+            <div class="text-center text-gray-500 text-xs">
+              <p class="small-text py-2 px-4">© 2025 by BINANTS. All rights
+                reserved!</p>
+            </div>
+          </div>
+        </footer>
+      </main>
+
+
+      <script src="main.163.delaye"></script>
+
+      <!-- Simple Mobile Functions -->
+      <script>
+      let currentSlide = 0;
+      const totalSlides = 5;
+
+      function toggleMobileMenu() {
+        const menu = document.getElementById("mobile-menu");
+        if (menu.classList.contains("hidden")) {
+          menu.classList.remove("hidden");
+        } else {
+          menu.classList.add("hidden");
+        }
+      }
+
+      // Smooth scrolling for anchor links on mobile
+      document.addEventListener('DOMContentLoaded', function() {
+        // Initialize scrolling banners for endless loop
+        initializeScrollingBanners();
+        
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+          anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            const target = document.querySelector(this.getAttribute('href'));
+            if (target) {
+              target.scrollIntoView({
+                behavior: 'smooth',
+                block: 'start'
+              });
+              const mobileMenu = document.getElementById("mobile-menu");
+              if (mobileMenu && !mobileMenu.classList.contains("hidden")) {
+                mobileMenu.classList.add("hidden");
+              }
+            }
+          });
+        });
+
+        // Enhanced touch support for main ant
+        const mainAnt = document.getElementById('mainAnt');
+        if (mainAnt) {
+          mainAnt.addEventListener('touchstart', function(e) {
+            e.preventDefault();
+            this.style.transform = 'translate(-50%, -50%) scale(0.95)';
+          }, { passive: false });
+          
+          mainAnt.addEventListener('touchend', function(e) {
+            e.preventDefault();
+            this.style.transform = 'translate(-50%, -50%) scale(1)';
+            if (typeof clickAnt === 'function') {
+              clickAnt();
+            } else {
+              console.log('clickAnt function not found, creating basic click handler');
+              alert('Game clicked! Please ensure game.js is loaded.');
+            }
+          }, { passive: false });
+        }
+      });
+
+      function updateSlider() {
+        const slider = document.getElementById("slider-track");
+        const dots = document.querySelectorAll(".gallery-dot");
+
+        if (slider) {
+          slider.style.transform = `translateX(-${currentSlide * 100}%)`;
+        }
+
+        if (dots.length > 0) {
+          dots.forEach((dot, index) => {
+            if (index === currentSlide) {
+              dot.classList.remove("bg-gray-500");
+              dot.classList.add("bg-binants-yellow");
+            } else {
+              dot.classList.remove("bg-binants-yellow");
+              dot.classList.add("bg-gray-500");
+            }
+          });
+        }
+      }
+
+      function nextSlide() {
+        currentSlide = (currentSlide + 1) % totalSlides;
+        updateSlider();
+      }
+
+      function prevSlide() {
+        currentSlide = (currentSlide - 1 + totalSlides) % totalSlides;
+        updateSlider();
+      }
+
+      function goToSlide(slideNumber) {
+        currentSlide = slideNumber;
+        updateSlider();
+      }
+      
+      // AUTO-SLIDER FUNCTION FOR SCROLLING BANNERS - ENDLESS CAROUSEL
+      function initializeScrollingBanners() {
+        const banners = document.querySelectorAll('.scrolling-banner');
+        
+        banners.forEach((banner, index) => {
+          const scrollingText = banner.querySelector('.scrolling-text');
+          if (scrollingText) {
+            const span = scrollingText.querySelector('span');
+            if (span) {
+              const originalText = span.textContent.trim();
+              
+              // Create exactly 2x the text for seamless 50% loop
+              const doubleText = originalText + '   ' + originalText;
+              
+              span.textContent = doubleText;
+              
+              // Reset animation completely
+              scrollingText.style.animation = 'none';
+              scrollingText.offsetHeight; // Force reflow
+              
+              // Mobile check for different speeds (Mobile slower than Desktop)
+              const isMobile = window.innerWidth <= 768;
+              const animationDuration = isMobile ? '60s' : '40s';
+              
+              // Apply animation with slight delay for consistency
+              setTimeout(() => {
+                scrollingText.style.animation = `scrollLeftSeamless ${animationDuration} linear infinite`;
+              }, index * 100);
+            }
+          }
+        });
+      }
+
+      // CLICK GAME LOGIC
+      let totalClicks = 0;
+      let totalPoints = 0;
+      let currentLevel = 1;
+      let currentMultiplier = 1;
+
+      // Level thresholds and multipliers
+      const levelThresholds = [0, 100, 1000, 10000, 1000000];
+      const levelMultipliers = [1, 2, 4, 8];
+
+      // Achievement thresholds - based on clicks, not points
+      const achievements = [
+          { threshold: 100, image: 'public/Transform1.jpg', title: 'Rugged Degen', description: '100 clicks - Welcome BINANT!' },
+          { threshold: 1000, image: 'public/Transform2.jpg', title: 'Tryhard Degen', description: '1K clicks - You discovered the grind!' },
+          { threshold: 10000, image: 'public/Transform3.jpg', title: 'BINANTS Believer', description: '10K clicks - The grind begins!' },
+          { threshold: 100000, image: 'public/Transform4.jpg', title: 'BINANTS Soldier', description: '100K clicks - Now we\'re talking!' },
+          { threshold: 1000000, image: 'public/Transform5.jpg', title: 'BINANTS OG', description: '1M clicks - You made it!' }
+      ];
+
+      // Main click function
+      function incrementClicks() {
+          // Visual click animation
+          const button = document.getElementById('binant-btn');
+          const img = document.getElementById('binant-img');
+          
+          if (button && img) {
+              button.classList.add('animate-pulse');
+              img.style.transform = 'scale(0.9) rotate(5deg)';
+              
+              setTimeout(() => {
+                  button.classList.remove('animate-pulse');
+                  img.style.transform = 'scale(1) rotate(0deg)';
+              }, 200);
+          }
+          
+          totalClicks = parseInt(localStorage.getItem('binantsClicks')) || 0;
+          totalPoints = parseInt(localStorage.getItem('binantsPoints')) || 0;
+          
+          totalClicks += currentMultiplier;
+          totalPoints += currentMultiplier;
+          updateCurrentLevel();
+          
+          localStorage.setItem('binantsClicks', totalClicks);
+          localStorage.setItem('binantsPoints', totalPoints);
+          
+          updateAllDisplays();
+          
+          // Update first-click highlighting (hide after first click)
+          updateFirstClickHighlighting();
+          
+          showFloatingPoints();
+          
+          checkAchievements();
+      }
+
+      // Update current level and multiplier
+      function updateCurrentLevel() {
+          let newLevel = 1;
+          let newMultiplier = 1;
+          
+          if (totalPoints >= 1000000) {
+              newLevel = 4;
+              newMultiplier = 8;
+          } else if (totalPoints >= 10000) {
+              newLevel = 4;
+              newMultiplier = 8;
+          } else if (totalPoints >= 1000) {
+              newLevel = 3;
+              newMultiplier = 4;
+          } else if (totalPoints >= 100) {
+              newLevel = 2;
+              newMultiplier = 2;
+          } else {
+              newLevel = 1;
+              newMultiplier = 1;
+          }
+          
+          currentLevel = newLevel;
+          currentMultiplier = newMultiplier;
+      }
+
+      // Show floating angry head animation instead of points
+     function showFloatingPoints() {
+        const button = document.getElementById('binant-btn');
+        if (!button) {
+            console.log('Button not found');
+            return;
+        }
+
+        const floatingHead = document.createElement('div');
+        floatingHead.className = 'floating-head';
+        floatingHead.style.cssText = `
+            position: fixed;
+            pointer-events: none;
+            z-index: 9999;
+            animation: floatUpAndFade 1.5s ease-out forwards;
+        `;
+
+        // Angry head image WITHOUT glow
+        const angryImg = document.createElement('img');
+        angryImg.src = '..//angry_head.164.delaye';
+        angryImg.alt = 'Angry Head';
+        angryImg.style.cssText = `
+            width: 48px;
+            height: 48px;
+            display: block;
+        `;
+
+        angryImg.onerror = function() {
+            const currentSrc = angryImg.src;
+            if (currentSrc.includes('public/angry_head')) {
+                angryImg.src = '..//angry_head.161.delaye';
+            } else if (!currentSrc.includes('pub/index-90.html')) {
+                angryImg.src = '..//angry_head.164.delaye';
+            }
+        };
+
+        floatingHead.appendChild(angryImg);
+
+        const rect = button.getBoundingClientRect();
+        const scrollY = window.scrollY || window.pageYOffset;
+        const scrollX = window.scrollX || window.pageXOffset;
+
+        // Random position around the button
+        const buttonCenterX = rect.left + scrollX + rect.width / 2;
+        const buttonCenterY = rect.top + scrollY + rect.height / 2;
+        const minRadius = 60;
+        const maxRadius = 120;
+        const radius = Math.random() * (maxRadius - minRadius) + minRadius;
+        const angle = Math.random() * 2 * Math.PI;
+        const randomX = buttonCenterX + Math.cos(angle) * radius - 24;
+        const randomY = buttonCenterY + Math.sin(angle) * radius - 24;
+        const viewportWidth = window.innerWidth;
+        const viewportHeight = window.innerHeight;
+        const finalX = Math.max(24, Math.min(randomX, viewportWidth - 72));
+        const finalY = Math.max(24, Math.min(randomY, viewportHeight - 72));
+        floatingHead.style.left = finalX + 'px';
+        floatingHead.style.top = finalY + 'px';
+
+        document.body.appendChild(floatingHead);
+
+        setTimeout(() => {
+            if (floatingHead && floatingHead.parentNode) {
+                floatingHead.remove();
+            }
+        }, 1500);
+      }
+
+      // Update all displays
+      function updateAllDisplays() {
+          updateClickCounter();
+          updatePointsDisplay();
+          updateStatsDisplay();
+          updateEvolutionProgress();
+          updateAchievementProgress();
+      }
+
+      // Update click counter
+      function updateClickCounter() {
+          const counter = document.getElementById('click-counter');
+          if (counter) {
+              counter.textContent = `${totalClicks.toLocaleString()} clicks`;
+          }
+      }
+
+      // Update points display
+      function updatePointsDisplay() {
+          const pointsDisplay = document.getElementById('points-display');
+          if (pointsDisplay) {
+              pointsDisplay.textContent = `+${currentMultiplier} per click`;
+          }
+      }
+
+      // Update stats display
+      function updateStatsDisplay() {
+          const totalPointsEl = document.getElementById('total-points');
+          const multiplierEl = document.getElementById('current-multiplier');
+          const levelEl = document.getElementById('current-level');
+          
+          if (totalPointsEl) totalPointsEl.textContent = totalPoints.toLocaleString();
+          if (multiplierEl) multiplierEl.textContent = `${currentMultiplier}x`;
+          if (levelEl) levelEl.textContent = currentLevel;
+      }
+
+      // Update evolution progress
+      function updateEvolutionProgress() {
+          const progressBar = document.getElementById('evolution-progress');
+          if (progressBar) {
+              const clickThresholds = [100, 1000, 10000, 100000, 1000000];
+              let unlockedSteps = 0;
+              
+              for (let i = 0; i < clickThresholds.length; i++) {
+                  if (totalClicks >= clickThresholds[i]) {
+                      unlockedSteps = i + 1;
+                  }
+              }
+              
+              const progressPercent = unlockedSteps * 20; // 100% / 5 steps = 20% per step
+              progressBar.style.width = progressPercent + '%';
+          }
+
+          const stepIds = ['step-1', 'step-2', 'step-3', 'step-4', 'step-5'];
+          const clickThresholds = [100, 1000, 10000, 100000, 1000000];
+          
+          stepIds.forEach((stepId, index) => {
+              const mobileStep = document.querySelector(`.block.sm\\:hidden [id="${stepId}"]`);
+              const desktopStep = document.querySelector(`.hidden.sm\\:flex [id="${stepId}"]`);
+              
+              const requiredClicks = clickThresholds[index];
+              const isUnlocked = totalClicks >= requiredClicks;
+              
+              if (mobileStep) {
+                  const circle = mobileStep.querySelector('div:first-child');
+                  const nameSpan = mobileStep.querySelector('span:first-of-type');
+                  const numberCircle = mobileStep.querySelector('div:last-child');
+                  
+                  if (isUnlocked) {
+                      if (circle) {
+                          circle.className = 'w-10 h-10 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-full border-2 border-yellow-300 flex items-center justify-center transition-all duration-300 shadow-xl flex-shrink-0';
+                          circle.style.boxShadow = '0 0 15px rgba(255, 215, 0, 0.6)';
+                      }
+                      if (nameSpan) {
+                          nameSpan.className = 'text-xs font-bold text-yellow-400 block';
+                      }
+                      if (numberCircle) {
+                          numberCircle.className = 'flex-shrink-0 w-8 h-8 bg-gradient-to-br from-binants-yellow to-binants-dark-yellow rounded-full flex items-center justify-center border border-yellow-300 -ml-1';
+                          const numberSpan = numberCircle.querySelector('span');
+                          if (numberSpan) {
+                              numberSpan.className = 'text-sm font-bold text-black mr-1';
+                          }
+                      }
+                  }
+              }
+              
+              if (desktopStep) {
+                  const circle = desktopStep.querySelector('div');
+                  const img = desktopStep.querySelector('img');
+                  const textSpans = desktopStep.querySelectorAll('span');
+                  const nameSpan = textSpans[0];
+                  const nameSpan2 = textSpans[1];
+                  
+                  if (isUnlocked) {
+                      if (circle) {
+                          circle.className = 'w-10 h-10 sm:w-12 sm:h-12 lg:w-18 lg:h-18 bg-gradient-to-br from-yellow-400 to-yellow-600 rounded-full border-2 sm:border-3 border-yellow-300 flex items-center justify-center mb-1 sm:mb-2 transition-all duration-300 shadow-xl';
+                          circle.style.boxShadow = '0 0 20px rgba(255, 215, 0, 0.6)';
+                      }
+                      if (img) {
+                          img.style.opacity = '1';
+                          img.style.filter = 'brightness(1.2)';
+                          img.className = 'w-5 h-5 sm:w-6 sm:h-6 lg:w-10 lg:h-10';
+                      }
+                      if (nameSpan) {
+                          nameSpan.className = 'text-xs font-bold text-yellow-400 text-center small-text leading-tight';
+                      }
+                      if (nameSpan2) {
+                          nameSpan2.className = 'text-xs font-bold text-yellow-400 text-center small-text mt-1';
+                      }
+                  }
+              }
+          });
+      }
+
+      // Track current achievement state to prevent flickering
+      let currentAchievementState = {
+          level: -1,
+          imageLoaded: false
+      };
+
+      // Mobile-optimized achievement function
+      function updateAchievementProgress() {
+          const progressBar = document.getElementById('achievement-progress');
+          const progressText = document.getElementById('progress-text');
+          const achievementCard = document.getElementById('achievement-card');
+          const achievementImage = document.getElementById('achievement-image');
+          const achievementTitle = document.getElementById('achievement-title');
+          const achievementDescription = document.getElementById('achievement-description');
+          const placeholder = document.getElementById('achievement-placeholder');
+          
+          if (!progressBar || !progressText) {
+              return;
+          }
+          
+          let currentAchievement = null;
+          let progress = 0;
+          let nextThreshold = 100;
+          let achievementLevel = -1;
+          
+          // Determine current achievement based on clicks, not points
+          if (totalClicks >= 1000000) {
+              currentAchievement = achievements[4];
+              progress = 100;
+              nextThreshold = 1000000;
+              achievementLevel = 4;
+          } else if (totalClicks >= 100000) {
+              currentAchievement = achievements[3];
+              progress = (totalClicks / 1000000) * 100;
+              nextThreshold = 1000000;
+              achievementLevel = 3;
+          } else if (totalClicks >= 10000) {
+              currentAchievement = achievements[2];
+              progress = (totalClicks / 100000) * 100;
+              nextThreshold = 100000;
+              achievementLevel = 2;
+          } else if (totalClicks >= 1000) {
+              currentAchievement = achievements[1];
+              progress = (totalClicks / 10000) * 100;
+              nextThreshold = 10000;
+              achievementLevel = 1;
+          } else if (totalClicks >= 100) {
+              currentAchievement = achievements[0];
+              progress = (totalClicks / 1000) * 100;
+              nextThreshold = 1000;
+              achievementLevel = 0;
+          } else {
+              currentAchievement = null;
+              progress = (totalClicks / 100) * 100;
+              nextThreshold = 100;
+              achievementLevel = -1;
+          }
+          
+          progressBar.style.width = Math.min(progress, 100) + '%';
+          
+          if (totalClicks >= 1000000) {
+              progressText.textContent = `MAX LEVEL REACHED! ${totalClicks.toLocaleString()} clicks`;
+          } else {
+              progressText.textContent = `${totalClicks.toLocaleString()} / ${nextThreshold.toLocaleString()} clicks`;
+          }
+          
+          // Only update achievement display if the level has changed
+          if (currentAchievementState.level !== achievementLevel) {
+              currentAchievementState.level = achievementLevel;
+              currentAchievementState.imageLoaded = false;
+              
+              if (totalClicks < 100) {
+                  if (achievementImage) {
+                      achievementImage.src = '';
+                      achievementImage.style.display = 'none';
+                      achievementImage.style.visibility = 'hidden';
+                      achievementImage.style.opacity = '0';
+                      achievementImage.classList.add('hidden');
+                      achievementImage.classList.remove('block');
+                  }
+                  if (placeholder) {
+                      placeholder.style.display = 'flex';
+                      placeholder.innerHTML = `
+                          <div class="flex flex-col items-center">
+                              <span class="text-3xl sm:text-5xl text-gray-400 mb-2">🔒</span>
+                              <span class="text-xs sm:text-sm text-gray-400 text-center px-2">Click to unlock</span>
+                          </div>
+                      `;
+                  }
+                  if (achievementTitle) {
+                      achievementTitle.textContent = 'LOCKED';
+                      achievementTitle.className = 'text-lg sm:text-xl font-bold text-gray-400 mb-2 sm:mb-3';
+                  }
+                  if (achievementDescription) {
+                      achievementDescription.textContent = 'Reach 100 clicks to unlock your first transformation!';
+                      achievementDescription.className = 'text-gray-500 text-sm mb-3 sm:mb-4';
+                  }
+                  
+              } else if (currentAchievement) {
+                  if (placeholder) {
+                      placeholder.style.display = 'none';
+                  }
+                  if (achievementImage && !currentAchievementState.imageLoaded) {
+                      achievementImage.onload = function() {
+                          currentAchievementState.imageLoaded = true;
+                          achievementImage.style.display = 'block';
+                          achievementImage.style.visibility = 'visible';
+                          achievementImage.style.opacity = '1';
+                          achievementImage.classList.remove('hidden');
+                          achievementImage.classList.add('block');
+                      };
+                      
+                      achievementImage.onerror = function() {
+                          const currentSrc = achievementImage.src;
+                          
+                          if (currentSrc.includes('public/Transform')) {
+                              const fileName = currentAchievement.image.replace('pub/index-90.html', '');
+                              achievementImage.src = fileName;
+                          } else if (!currentSrc.includes('pub/index-90.html')) {
+                              achievementImage.src = './public/' + currentAchievement.image.replace('pub/index-90.html', '');
+                          } else {
+                              currentAchievementState.imageLoaded = true;
+                              achievementImage.style.display = 'none';
+                              if (placeholder) {
+                                  placeholder.style.display = 'flex';
+                                  placeholder.innerHTML = `
+                                      <div class="flex flex-col items-center">
+                                          <div class="w-16 h-16 bg-gradient-to-br from-binants-yellow to-yellow-600 rounded-lg flex items-center justify-center mb-2">
+                                              <span class="text-2xl">🏆</span>
+                                          </div>
+                                          <span class="text-xs text-binants-yellow text-center px-2 font-bold">ACHIEVEMENT UNLOCKED!</span>
+                                          <span class="text-xs text-gray-300 text-center px-2">${currentAchievement.title}</span>
+                                      </div>
+                                  `;
+                              }
+                          }
+                      };
+                      
+                      achievementImage.src = currentAchievement.image;
+                  }
+                  if (achievementTitle) {
+                      achievementTitle.textContent = currentAchievement.title;
+                      achievementTitle.className = 'text-lg sm:text-xl font-bold text-binants-yellow mb-2 sm:mb-3';
+                  }
+                  if (achievementDescription) {
+                      achievementDescription.textContent = currentAchievement.description;
+                      achievementDescription.className = 'text-gray-300 text-sm mb-3 sm:mb-4';
+                  }
+                  if (achievementCard) {
+                      achievementCard.classList.remove('border-gray-600/30');
+                      achievementCard.classList.add('border-binants-yellow/50');
+                  }
+              }
+          }
+      }
+
+      // Check achievements - simplified for single transforming card
+      function checkAchievements() {
+          updateAchievementProgress();
+      }
+
+      // Mobile-first achievement initialization
+      function initializeAchievementStates() {
+          // Reset achievement state
+          currentAchievementState = {
+              level: -1,
+              imageLoaded: false
+          };
+          
+          const achievementImage = document.getElementById('achievement-image');
+          const placeholder = document.getElementById('achievement-placeholder');
+          const achievementTitle = document.getElementById('achievement-title');
+          const achievementDescription = document.getElementById('achievement-description');
+          const achievementCard = document.getElementById('achievement-card');
+          
+          if (!achievementImage || !placeholder) {
+              return;
+          }
+          
+          // Reset everything
+          achievementImage.src = '';
+          achievementImage.style.cssText = '';
+          achievementImage.removeAttribute('style');
+          achievementImage.className = '';
+          
+          placeholder.style.cssText = '';
+          placeholder.removeAttribute('style');
+          placeholder.className = '';
+          
+          // Set default locked state
+          achievementImage.src = '';
+          achievementImage.style.display = 'none';
+          achievementImage.style.visibility = 'hidden';
+          achievementImage.style.opacity = '0';
+          achievementImage.classList.add('hidden');
+          achievementImage.classList.remove('block');
+          
+          placeholder.style.cssText = `
+              display: flex !important;
+              visibility: visible !important;
+              opacity: 1 !important;
+              align-items: center !important;
+              justify-content: center !important;
+              background-color: #4a5568 !important;
+              color: #9ca3af !important;
+              font-size: 14px !important;
+              text-align: center !important;
+              width: 100% !important;
+              height: 100% !important;
+              position: relative !important;
+              z-index: 1 !important;
+          `;
+          placeholder.innerHTML = '<span style="font-size: 12px; opacity: 0.7;">🔒 CLICK TO UNLOCK</span>';
+          
+          if (achievementTitle) {
+              achievementTitle.textContent = 'LOCKED';
+              achievementTitle.className = 'text-lg sm:text-xl font-bold text-gray-400 mb-2 sm:mb-3';
+          }
+          if (achievementDescription) {
+              achievementDescription.textContent = 'Reach 100 clicks to unlock your first transformation!';
+              achievementDescription.className = 'text-gray-500 text-sm mb-3 sm:mb-4';
+          }
+          if (achievementCard) {
+              achievementCard.style.borderColor = '';
+              achievementCard.classList.remove('border-binants-yellow/50');
+              achievementCard.classList.add('border-gray-600/30');
+          }
+          
+          updateAchievementProgress();
+      }
+      
+      // Initialize on page load - mobile-optimized
+      document.addEventListener('DOMContentLoaded', function() {
+          totalClicks = parseInt(localStorage.getItem('binantsClicks')) || 0;
+          totalPoints = parseInt(localStorage.getItem('binantsPoints')) || 0;
+          
+          updateCurrentLevel();
+          
+          let initAttempts = 0;
+          const maxAttempts = 5;
+          
+          function attemptInitialization() {
+              initAttempts++;
+              
+              const achievementImage = document.getElementById('achievement-image');
+              const placeholder = document.getElementById('achievement-placeholder');
+              const progressBar = document.getElementById('achievement-progress');
+              const achievementCard = document.getElementById('achievement-card');
+              
+              const elementsFound = achievementImage && placeholder && progressBar && achievementCard;
+              
+              if (elementsFound) {
+                  initializeAchievementStates();
+                  updateAllDisplays();
+                  
+                  // Initialize first-click highlighting
+                  updateFirstClickHighlighting();
+                  
+                  setTimeout(() => {
+                      updateAchievementProgress();
+                  }, 200);
+                  
+              } else {
+                  if (initAttempts < maxAttempts) {
+                      setTimeout(attemptInitialization, 200);
+                  }
+              }
+          }
+          
+          setTimeout(attemptInitialization, 50);
+      });
+
+      // First-click highlighting management
+      function updateFirstClickHighlighting() {
+          const totalClicks = parseInt(localStorage.getItem('binantsClicks')) || 0;
+          const overlay = document.getElementById('first-click-overlay');
+          const button = document.getElementById('binant-btn');
+          
+          if (totalClicks === 0) {
+              // Show first-click highlighting for new users
+              if (overlay) {
+                  overlay.classList.remove('hidden');
+              }
+              if (button) {
+                  button.classList.add('first-time-highlight');
+              }
+          } else {
+              // Hide highlighting for users who have clicked
+              if (overlay) {
+                  overlay.classList.add('hidden');
+              }
+              if (button) {
+                  button.classList.remove('first-time-highlight');
+              }
+          }
+      }
+
+      // Copy contract address function
+      function copyContractAddress(buttonId) {
+          const button = document.getElementById(buttonId);
+          // Find the span element with data-full-address attribute in the same container
+          const addressSpan = button.parentElement.querySelector('[data-full-address]');
+          const contractAddress = addressSpan ? addressSpan.getAttribute('data-full-address') : "0xE00E6919895929090C2d5342Ae8375C169Cf8888";
+          
+          navigator.clipboard.writeText(contractAddress).then(() => {
+              const button = document.getElementById(buttonId);
+              const copyText = button.querySelector('.copy-text');
+              const checkmarkText = button.querySelector('.checkmark-text');
+              
+              copyText.classList.add('hidden');
+              checkmarkText.classList.remove('hidden');
+              button.classList.add('bg-green-500/30');
+              button.classList.remove('bg-binants-yellow/20');
+              
+              setTimeout(() => {
+                  copyText.classList.remove('hidden');
+                  checkmarkText.classList.add('hidden');
+                  button.classList.remove('bg-green-500/30');
+                  button.classList.add('bg-binants-yellow/20');
+              }, 3000);
+              
+          }).catch(err => {
+              fallbackCopyTextToClipboard(contractAddress, buttonId);
+          });
+      }
+
+      // Fallback copy function for older browsers
+      function fallbackCopyTextToClipboard(text, buttonId) {
+          const textArea = document.createElement("textarea");
+          textArea.value = text;
+          
+          textArea.style.top = "0";
+          textArea.style.left = "0";
+          textArea.style.position = "fixed";
+          
+          document.body.appendChild(textArea);
+          textArea.focus();
+          textArea.select();
+          
+          try {
+              const successful = document.execCommand('copy');
+              if (successful) {
+                  const button = document.getElementById(buttonId);
+                  const copyText = button.querySelector('.copy-text');
+                  const checkmarkText = button.querySelector('.checkmark-text');
+                  
+                  copyText.classList.add('hidden');
+                  checkmarkText.classList.remove('hidden');
+                  button.classList.add('bg-green-500/30');
+                  button.classList.remove('bg-binants-yellow/20');
+                  
+                  setTimeout(() => {
+                      copyText.classList.remove('hidden');
+                      checkmarkText.classList.add('hidden');
+                      button.classList.remove('bg-green-500/30');
+                      button.classList.add('bg-binants-yellow/20');
+                  }, 3000);
+              }
+          } catch (err) {
+              console.error('Fallback: Unable to copy', err);
+          }
+          
+          document.body.removeChild(textArea);
+      }
+    </script>
+      <style>
+      @keyframes blink {
+        0%,
+        50% {
+          opacity: 1;
+        }
+        51%,
+        100% {
+          opacity: 0.3;
+        }
+      }
+      .animate-blink {
+        animation: blink 1s infinite;
+      }
+      @keyframes wiggle {
+        0%,
+        7% {
+          transform: rotateZ(0);
+        }
+        15% {
+          transform: rotateZ(-15deg);
+        }
+        20% {
+          transform: rotateZ(10deg);
+        }
+        25% {
+          transform: rotateZ(-10deg);
+        }
+        30% {
+          transform: rotateZ(6deg);
+        }
+        35% {
+          transform: rotateZ(-4deg);
+        }
+        40%,
+        100% {
+          transform: rotateZ(0);
+        }
+      }
+      .animate-wiggle {
+        animation: wiggle 2s ease-in-out infinite;
+      }
+      
+      /* FLOATING POINTS ANIMATION */
+      @keyframes floatUp {
+        0% {
+          opacity: 1;
+          transform: translateY(0px);
+        }
+        100% {
+          opacity: 0;
+          transform: translateY(-60px);
+        }
+      }
+      
+      @keyframes floatUpAndFade {
+        0% {
+          opacity: 1;
+          transform: translateY(0px) scale(1);
+        }
+        50% {
+          opacity: 1;
+          transform: translateY(-40px) scale(1.2);
+        }
+        100% {
+          opacity: 0;
+          transform: translateY(-80px) scale(0.8);
+        }
+      }
+      
+      .floating-points {
+        font-family: 'Press Start 2P', cursive;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+      }
+      
+      /* Custom Tailwind classes for larger sizes */
+      .w-18 { width: 4.5rem; }
+      .h-18 { height: 4.5rem; }
+      
+      /* SCROLLING BANNER - SEAMLESS ENDLESS CAROUSEL */
+      .scrolling-banner {
+        display: block;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        white-space: nowrap;
+      }
+      
+      @keyframes scrollLeftSeamless {
+        from {
+          transform: translateX(0%);
+        }
+        to {
+          transform: translateX(-50%); /* Only to half - then restarts seamlessly */
+        }
+      }
+      
+      .scrolling-text {
+        display: inline-block;
+        white-space: nowrap;
+        will-change: transform;
+        transform: translateZ(0);
+        font-size: 1.2rem;
+        font-weight: 700;
+        color: white;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        animation: scrollLeftSeamless 40s linear infinite; /* Desktop: faster */
+      }
+      
+      /* Mobile: slower animation */
+      @media (max-width: 768px) {
+        .scrolling-text {
+          font-size: 1rem;
+          animation: scrollLeftSeamless 60s linear infinite; /* Mobile: much slower */
+        }
+      }
+      
+      .scrolling-text span {
+        display: inline-block;
+        text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        white-space: nowrap;
+        transform: translateZ(0);
+      }
+
+      /* First Click Highlighting Animations */
+      @keyframes pulseGlow {
+        0% { 
+          box-shadow: 0 0 30px rgba(255, 215, 0, 0.5), 0 0 60px rgba(255, 215, 0, 0.3), 0 0 90px rgba(255, 215, 0, 0.2);
+          transform: scale(1);
+        }
+        50% { 
+          box-shadow: 0 0 40px rgba(255, 215, 0, 0.8), 0 0 80px rgba(255, 215, 0, 0.5), 0 0 120px rgba(255, 215, 0, 0.3);
+          transform: scale(1.05);
+        }
+        100% { 
+          box-shadow: 0 0 30px rgba(255, 215, 0, 0.5), 0 0 60px rgba(255, 215, 0, 0.3), 0 0 90px rgba(255, 215, 0, 0.2);
+          transform: scale(1);
+        }
+      }
+
+      @keyframes wiggleButton {
+        0%, 100% { transform: rotate(0deg); }
+        25% { transform: rotate(-2deg); }
+        75% { transform: rotate(2deg); }
+      }
+
+      /* First click overlay styles */
+      .first-click-overlay {
+        position: absolute;
+        top: 48%;
+        left: 48%;
+        transform: translate(-50%, -50%);
+        pointer-events: none;
+        z-index: 10;
+        opacity: 1;
+        transition: opacity 0.5s ease-out;
+      }
+
+      /* Desktop positioning */
+      @media (min-width: 1024px) {
+        .first-click-overlay {
+          top: 50%;
+          left: 49%;
+        }
+      }
+
+      .first-click-overlay.hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      .first-click-text {
+        position: absolute;
+        top: -140px;
+        left: -80px;
+        transform: translateX(-50%);
+        background: rgba(0,0,0,0.8);
+        color: #FFD700;
+        padding: 8px 16px;
+        border-radius: 20px;
+        font-size: 14px;
+        font-weight: bold;
+        white-space: nowrap;
+        border: 2px solid #FFD700;
+        animation: pulseGlow 2s ease-in-out infinite;
+      }
+
+      /* Enhanced button styling for first-time users */
+      .first-time-highlight {
+        animation: pulseGlow 3s ease-in-out infinite, wiggleButton 4s ease-in-out infinite !important;
+        border: 4px solid #FFD700 !important;
+      }
+
+      /* Mobile responsive adjustments */
+      @media (max-width: 640px) {
+        .first-click-text {
+          top: -110px;
+          left: -60px;
+          font-size: 12px;
+          padding: 6px 12px;
+        }
+      }
+    </style>
+    </body>
+  
+<!-- Mirrored from www.binants.fun/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/public/main.js by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Sep 2025 11:39:31 GMT -->
+</html>
